@@ -1,0 +1,14 @@
+D:\LTNET\KhachHang\KhachHang\bin\Debug\net10.0\KhachHang.exe
+D:\LTNET\KhachHang\KhachHang\bin\Debug\net10.0\KhachHang.deps.json
+D:\LTNET\KhachHang\KhachHang\bin\Debug\net10.0\KhachHang.runtimeconfig.json
+D:\LTNET\KhachHang\KhachHang\bin\Debug\net10.0\KhachHang.dll
+D:\LTNET\KhachHang\KhachHang\bin\Debug\net10.0\KhachHang.pdb
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\KhachHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\KhachHang.AssemblyInfoInputs.cache
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\KhachHang.AssemblyInfo.cs
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\KhachHang.csproj.CoreCompileInputs.cache
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\KhachHang.dll
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\refint\KhachHang.dll
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\KhachHang.pdb
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\KhachHang.genruntimeconfig.cache
+D:\LTNET\KhachHang\KhachHang\obj\Debug\net10.0\ref\KhachHang.dll
