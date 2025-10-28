@@ -1,0 +1,14 @@
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\bin\Debug\net10.0\QL_SanPhamThanhLy.exe
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\bin\Debug\net10.0\QL_SanPhamThanhLy.deps.json
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\bin\Debug\net10.0\QL_SanPhamThanhLy.runtimeconfig.json
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\bin\Debug\net10.0\QL_SanPhamThanhLy.dll
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\bin\Debug\net10.0\QL_SanPhamThanhLy.pdb
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\QL_SanPhamThanhLy.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\QL_SanPhamThanhLy.AssemblyInfoInputs.cache
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\QL_SanPhamThanhLy.AssemblyInfo.cs
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\QL_SanPhamThanhLy.csproj.CoreCompileInputs.cache
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\QL_SanPhamThanhLy.dll
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\refint\QL_SanPhamThanhLy.dll
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\QL_SanPhamThanhLy.pdb
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\QL_SanPhamThanhLy.genruntimeconfig.cache
+D:\LTNET\QL_SanPhamThanhLy\QL_SanPhamThanhLy\obj\Debug\net10.0\ref\QL_SanPhamThanhLy.dll
